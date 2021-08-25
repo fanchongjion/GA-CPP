@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1629260569 source:d:\for_test\ga\main.cpp
+	<iostream>
+	<vector>
+	<memory.h>
+	<ctime>
+
